@@ -1,20 +1,20 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWallet.API", "MyWallet.API\MyWallet.API.csproj", "{77D982A9-2311-4F8B-B941-FC631F72AB15}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWallet.API", "src\MyWallet.API\MyWallet.API.csproj", "{77D982A9-2311-4F8B-B941-FC631F72AB15}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4F24BDD6-32B4-4CB2-8D71-7BE51B262EB7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{FD0BC1A4-7699-437B-9399-995F50DB89A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EZBits", "EZBits\EZBits.csproj", "{3DF1E274-0ADA-458E-93D7-5EE960CA9E90}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EZBits", "lib\EZBits\EZBits.csproj", "{3DF1E274-0ADA-458E-93D7-5EE960CA9E90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWallet.Application", "MyWallet.Application\MyWallet.Application.csproj", "{4BE0CFD2-F0B3-45DC-A0F6-202E149CB308}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWallet.Application", "src\MyWallet.Application\MyWallet.Application.csproj", "{4BE0CFD2-F0B3-45DC-A0F6-202E149CB308}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWallet.Domain", "MyWallet.Domain\MyWallet.Domain.csproj", "{F8BC6030-2190-4725-8322-67B8469CB908}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWallet.Domain", "src\MyWallet.Domain\MyWallet.Domain.csproj", "{F8BC6030-2190-4725-8322-67B8469CB908}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWallet.Infrastructure", "MyWallet.Infrastructure\MyWallet.Infrastructure.csproj", "{B404727B-1274-40DF-8194-C825A8236ADA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWallet.Infrastructure", "src\MyWallet.Infrastructure\MyWallet.Infrastructure.csproj", "{B404727B-1274-40DF-8194-C825A8236ADA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWallet.Persistence", "MyWallet.Persistence\MyWallet.Persistence.csproj", "{D6C60B68-92A5-4B9D-B839-3341526E6C9E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWallet.Persistence", "src\MyWallet.Persistence\MyWallet.Persistence.csproj", "{D6C60B68-92A5-4B9D-B839-3341526E6C9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
